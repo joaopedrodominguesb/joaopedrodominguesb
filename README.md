@@ -1,12 +1,11 @@
 <div align="center">
 
-<a href="https://joaofortes.dev">
-  <img src="./assets/askuovye-cybertribal.png" alt="ASKUOVYE — cybertribal profile art" width="100%">
+
+  <img src="./assets/askuovye-cybertribal.png" alt="JOAO — cybertribal profile art" width="100%">
 </a>
 
 <br><br>
 
-<a href="https://joaofortes.dev">
   <img src="https://img.shields.io/badge/JOAO.DEV-LIVE-0066FF?style=for-the-badge&labelColor=050505" alt="JOAO.DEV">
 </a>
 <a href="https://github.com/askuovye">
