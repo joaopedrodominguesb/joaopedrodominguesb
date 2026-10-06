@@ -1,59 +1,154 @@
-<h2 data-importer="text" align="left"># João Pedro<br><br>
-### Embedded Systems Student · C/C++ · Python · Linux</h2>
+<div align="center">
 
-###
+<a href="https://joaofortes.dev">
+  <img src="./assets/askuovye-cybertribal.png" alt="ASKUOVYE — cybertribal profile art" width="100%">
+</a>
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opera/opera-original.svg" height="30" alt="opera logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="30" alt="qt logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+<br><br>
+
+<a href="https://joaofortes.dev">
+  <img src="https://img.shields.io/badge/JOAO.DEV-LIVE-0066FF?style=for-the-badge&labelColor=050505" alt="JOAO.DEV">
+</a>
+<a href="https://github.com/askuovye">
+  <img src="https://img.shields.io/badge/GITHUB-ASKUOVYE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://www.linkedin.com/in/joaolopesfortes/">
+  <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
 </div>
 
-###
+---
 
-<div data-importer="socials" align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
-</div>
+```text
+ASKUOVYE.DEMO // PROFILE DATA
 
-###
+Type ...... : Developer Profile
+Code ...... : João Fortes
+Alias ..... : askuovye
+Role ...... : Full Stack Developer
+Stack ..... : Vue / TypeScript / Laravel
+System .... : Linux
+Location .. : Brazil
+Status .... : ONLINE
+Web ....... : joaofortes.dev
+```
 
-<div data-importer="socials" align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
+## // WHO_AM_I
 
-###
+Full stack developer and Software Engineering student from Brazil.
 
-<div data-importer="music" align="center">
-  <a href="https://open.spotify.com/user/31o3bsojbriikfrwbwh2me3ditdy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31o3bsojbriikfrwbwh2me3ditdy&count=5&unique=true" alt="Spotify recently played"  />
+I build applications from database to interface, with a particular interest in the point where **software engineering, interaction and visual identity** meet.
+
+My work tends to mix practical systems with experimental interfaces, retro software references and creative coding.
+
+```text
+CURRENTLY
+──────────────────────────────────────────────────────────────
+
+BUILDING .... personal projects / strange interfaces
+WORKING ..... full stack / freelance
+LEARNING .... software engineering
+INTERESTS ... web · systems · linux · creative coding
+```
+
+## // LOADOUT
+
+### FRONTEND
+
+<p>
+  <img src="https://img.shields.io/badge/Vue.js-0B0B0B?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js">
+  <img src="https://img.shields.io/badge/TypeScript-0B0B0B?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
+  <img src="https://img.shields.io/badge/JavaScript-0B0B0B?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Vite-0B0B0B?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite">
+  <img src="https://img.shields.io/badge/SCSS-0B0B0B?style=for-the-badge&logo=sass&logoColor=CC6699" alt="SCSS">
+</p>
+
+### BACKEND
+
+<p>
+  <img src="https://img.shields.io/badge/PHP-0B0B0B?style=for-the-badge&logo=php&logoColor=777BB4" alt="PHP">
+  <img src="https://img.shields.io/badge/Laravel-0B0B0B?style=for-the-badge&logo=laravel&logoColor=FF2D20" alt="Laravel">
+</p>
+
+### DATABASE
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-0B0B0B?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-0B0B0B?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL">
+</p>
+
+### TOOLS
+
+<p>
+  <img src="https://img.shields.io/badge/Docker-0B0B0B?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-0B0B0B?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
+  <img src="https://img.shields.io/badge/Linux-0B0B0B?style=for-the-badge&logo=linux&logoColor=FCC624" alt="Linux">
+  <img src="https://img.shields.io/badge/Flutter-0B0B0B?style=for-the-badge&logo=flutter&logoColor=02569B" alt="Flutter">
+</p>
+
+## // RELEASES
+
+```text
+[01] JOAO.DEV
+     type .... personal portfolio
+     stack ... Vue / TypeScript / Vite / SCSS
+     state ... LIVE
+     web ..... joaofortes.dev
+
+[02] VESTOCK
+     type .... thrift management system
+     stack ... Laravel / Vue / MySQL
+     state ... project
+
+[03] ECOLINK
+     type .... waste-disposal mapping platform
+     stack ... Laravel / PHP / MySQL
+     state ... project
+
+[04] ECOLINK MOBILE
+     type .... mobile client
+     stack ... Flutter / Firebase
+     state ... project
+```
+
+**[JOAO.DEV](https://joaofortes.dev)** ·
+**[PORTFOLIO SOURCE](https://github.com/askuovye/Portifolio)** ·
+**[ECOLINK](https://github.com/askuovye/EcoLink)** ·
+**[ECOLINK MOBILE](https://github.com/askuovye/ecolinkflutter)**
+
+## // GREETS
+
+```text
+ASKUOVYE GREETS
+
+OPEN SOURCE / LINUX / WEB / CREATIVE CODING
+EXPERIMENTS / INTERFACES / MUSIC / GAMES
+AND EVERYONE WHO KEEPS BUILDING
+```
+
+## // TRANSMISSION
+
+<p>
+  <a href="https://joaofortes.dev">
+    <img src="https://img.shields.io/badge/PORTFOLIO-JOAOFORTES.DEV-0066FF?style=for-the-badge&labelColor=050505" alt="Portfolio">
   </a>
-</div>
+  <a href="https://github.com/askuovye">
+    <img src="https://img.shields.io/badge/GITHUB-ASKUOVYE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/joaolopesfortes/">
+    <img src="https://img.shields.io/badge/LINKEDIN-JOÃO_FORTES-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
-###
+```text
+──────────────────────────────────────────────────────────────
 
-<div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY21semgwd3ltMHhsNXZmbW5rYjR2dmc2ZjlpaHgxZHNlaDAzejA5NCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/8hmCdMaXUewzcroADq/giphy.gif"  />
-</div>
+                  SHARPENING THE MIND
+                   IN A DIGITAL WORLD
 
-###
+                  ASKUOVYE // 2026
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=joaopedrodominguesb-dotcom .joaopedrodominguesb-dotcom &"  />
-</div>
+──────────────────────────────────────────────────────────────
+```
 
-###
